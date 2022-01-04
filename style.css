@@ -1,3 +1,41 @@
-h1 {
-  color: red;
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+.professional_section {
+  display: flex;
+  background-image: url("./images/top-banner.png");
+  background-repeat: no-repeat;
+}
+
+.professional_area {
+  width: 50%;
+  padding-left: 2%;
+}
+.info {
+  margin: 50px 0 0 20px;
+}
+.autor {
+  color: orange;
+}
+.professional_descr {
+  padding-bottom: 10px;
+}
+
+.link_button {
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: orange;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+
+.professional_area img {
+  width: 80%;
+}
+.professional_img {
+  padding: 5% 0 0 10%;
 }
