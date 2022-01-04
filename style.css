@@ -74,9 +74,6 @@ h2 {
 }
 .experience_container {
   padding-top: 20px;
-  /* background-image: url("./images/exp-bg.png");
-  background-repeat: no-repeat;
-  background-position: left bottom; */
 }
 .experience_area {
   padding: 10px 45px;
@@ -84,7 +81,6 @@ h2 {
   margin-left: 5%;
   margin-right: 5%;
   box-shadow: 10px 10px 40px grey;
-  /* border-left: 7px solid; */
   border-radius: 5px;
 }
 
